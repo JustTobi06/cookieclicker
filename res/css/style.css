@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Indie+Flower&family=Island+Moments&display=swap");
+body{
+  background: url("../img/srk.gif");
+  background-size: cover;
+
+}
+
+#counter {
+  text-align: center;
+  font-size: 100px;
+  font-family: 'Indie Flower', cursive;
+font-family: 'Island Moments', cursive;
+display: table;
+  margin: 0 auto;
+  color: #b00b69;
+  background: rgba(0, 0, 0, 0.5);
+  cursor: pointer;
+}
+#shrek {
+  max-width: 240px;
+  display: block;
+  margin: 0 auto;
+  transition: .2s ease;
+  cursor: pointer;
+ 
+}
+#shrek:hover{
+transform: scale(1.2);
+}
+
+button{
+  border:none;
+  font-size: 36px;
+  display: table;
+  margin: 0 auto;
+  color: #b00b69;
+  background: rgba(0, 0, 0, 0.5);
+  cursor: pointer;
+}
+
+
